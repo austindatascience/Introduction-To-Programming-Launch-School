@@ -1,0 +1,3 @@
+ec2-user:~/environment/my_folder $ cd ..
+ec2-user:~/environment/intro_to_programming_launch_school/preparations/excersise1 $ rm -R my_folder
+ec2-user:~/environment/intro_to_programming_launch_school/preparations/excersise1 $ 
