@@ -1,0 +1,7 @@
+ec2-user:~/environment $ mkdir my_folder
+ec2-user:~/environment $ cd my_folder
+ec2-user:~/environment/my_folder $ touch one.rb
+ec2-user:~/environment/my_folder $ touch two.rb
+ec2-user:~/environment/my_folder $ ruby one.rb
+ec2-user:~/environment/my_folder $ ruby two.rb
+ec2-user:~/environment/my_folder $ irb
