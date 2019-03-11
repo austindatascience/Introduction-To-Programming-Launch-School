@@ -1,0 +1,1 @@
+The interpreter was expecting an "}" to close the curly brackets.  An opening curly bracket "{" must be followed by a closing curly bracket "}". This error probably occurred when the programer was trying to create a hash.
