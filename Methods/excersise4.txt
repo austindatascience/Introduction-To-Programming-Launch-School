@@ -1,0 +1,1 @@
+It prints nothing because the return statements takes no arguments.
