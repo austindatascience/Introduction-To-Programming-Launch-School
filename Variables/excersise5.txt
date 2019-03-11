@@ -1,0 +1,1 @@
+In the first program “puts x” prints 3, in the second an error is produced due to the fact that x was declared as a local variable within the method “.times” and the puts statement is attempts to access the x from the previous method which is out of it’s scope.
