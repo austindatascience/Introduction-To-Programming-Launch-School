@@ -1,0 +1,2 @@
+The method calculate_product requires two arguements but only one was provided thus
+causing the error message. 
