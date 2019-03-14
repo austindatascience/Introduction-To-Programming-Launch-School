@@ -1,0 +1,1 @@
+names[‘margaret’] generates an error because we put a string in where  an integer must be inserted between the [] to access the intended element by index. By putting the index of 3 within the brackets of names, we can fix the problem. Thus names[3] = ‘jody’ work
