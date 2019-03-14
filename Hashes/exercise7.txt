@@ -1,0 +1,1 @@
+my_hash was created using the symbol x: as a key while my_hash2 was created using the string x as a key.
