@@ -1,0 +1,1 @@
+Exception handling manages problems such as incorrect user input by displaying an error message or performing some other action when errors are encountered.  
