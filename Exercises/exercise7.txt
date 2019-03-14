@@ -1,0 +1,1 @@
+Arrays are used for ordered lists of data while Hashes for unordered lists. Arrays store elements by indexes which are integers while Hashes store values by keys which can be symbols, strings, arrays, among other data types. 
